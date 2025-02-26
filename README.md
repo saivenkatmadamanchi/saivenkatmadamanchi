@@ -79,7 +79,7 @@ Graduate from Northeastern University with a Master of Science in Information Sy
 
 ## What's My Motivation? 🚀
 
-As a passionate Data Scientist and Data Analytics Engineering Graduate, I’m driven by the power of data to solve complex problems and create impactful solutions. With 4+ years of experience in machine learning, predictive modeling, and scalable data pipelines, I thrive on turning raw data into actionable insights. I’m motivated by challenges that push boundaries and improve lives. My curiosity, collaborative spirit, and commitment to growth fuel my passion for innovation. Let’s build a smarter, data-driven future together. 🚀
+As a passionate Data Scientist and Data Analytics Engineering Graduate, I’m driven by the power of data to solve complex problems and create impactful solutions. With 4+ years of experience in machine learning, predictive modeling, and scalable data pipelines, I thrive on turning raw data into actionable insights. I’m motivated by challenges that push boundaries. My curiosity, collaborative spirit, and commitment to growth fuel my passion for innovation. Let’s build a smarter, data-driven future together. 🚀
 
 
 ---
