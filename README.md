@@ -10,9 +10,6 @@ Graduate from Northeastern University with a Master of Science in Information Sy
 
 ---
 ## What I Bring To The Table? 🛠️
-<hr>
-
-<h3> What I Bring To The Table ? </h3>
 
 <p align="center">
   <!-- Programming -->
@@ -79,7 +76,6 @@ Graduate from Northeastern University with a Master of Science in Information Sy
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
 </p>
 
-<hr>
 
 ## What's My Motivation? 🚀
 
