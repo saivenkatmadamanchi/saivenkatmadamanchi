@@ -1,5 +1,4 @@
 # Hey there, GEN AI Enthusiast! 👋
----
 
 ## Who Am I? 🧑‍💻
 
@@ -11,7 +10,6 @@ I'm a Data and AI enthusiast with over 5 years of experience in pre-sales analyt
 - 🏆 Hackathon winner and recognized for excellence in MLOps and data science coursework.
 - 🌍 Open to relocation and eager to collaborate on innovative, high-impact projects.
 
----
 ## What I Bring To The Table? 🛠️
 
 <p align="center">
@@ -78,14 +76,12 @@ I'm a Data and AI enthusiast with over 5 years of experience in pre-sales analyt
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
 </p>
----
 
 ## What's My Motivation? 🚀
 
 I’m energized by the opportunity to bridge the gap between raw data and real-world decisions. For me, motivation comes from designing systems that not only function but transform how teams think, plan, and act. Whether it’s empowering stakeholders with predictive insights or simplifying complexity through intelligent automation, I find purpose in creating clarity from chaos. Each challenge is a chance to learn, iterate, and build something meaningful. I’m here to solve—not just code. To collaborate—not just analyze. And to deliver—not just develop.
 
 Let’s turn data into direction. 📊✨
----
 
 ## 📜 Certifications
 
