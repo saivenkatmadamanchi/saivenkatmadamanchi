@@ -1,4 +1,4 @@
-# Hey there, Data Enthusiast! 👋
+# Hey there, GEN AI Enthusiast! 👋
 
 ## Who Am I? 🧑‍💻
 
@@ -6,7 +6,15 @@ Graduate from Northeastern University with a Master of Science in Information Sy
 
 - 🌱 I’m currently learning ML techniques and AWS tools.
 - 💬 Ask me about Data Science, Machine Learning, and Visualization.
-- 📂 Check out my [Portfolio](https://saivenkatmadamanchi.netlify.app/) 
+- 📂 Check out my [Portfolio](https://saivenkatmadamanchi.netlify.app/)
+
+I'm a Data and AI enthusiast with over 5 years of experience in pre-sales analytics, business intelligence, and data science. A recent Master’s graduate from Northeastern University in Data Analytics Engineering, I specialize in building intelligent systems, automating data pipelines, and generating actionable insights using modern tools like Power BI, Python, Spark, and LangChain.
+
+- 🤖 Currently working on integrating LLMs with business workflows using LangChain and Crew AI.
+- 🧠 Experienced with MLOps pipelines, CRM data automation, and real-time data enrichment.
+- 📊 Passionate about creating data-driven solutions that influence strategy and execution.
+- 🏆 Hackathon winner and recognized for excellence in MLOps and data science coursework.
+- 🌍 Open to relocation and eager to collaborate on innovative, high-impact projects.
 
 ---
 ## What I Bring To The Table? 🛠️
