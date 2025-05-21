@@ -2,12 +2,6 @@
 
 ## Who Am I? 🧑‍💻
 
-Graduate from Northeastern University with a Master of Science in Information Systems, I’ve built a solid foundation in data science, machine learning, database management, and cloud technologies. I’m passionate about using data-driven insights to tackle complex business challenges and drive impactful results.
-
-- 🌱 I’m currently learning ML techniques and AWS tools.
-- 💬 Ask me about Data Science, Machine Learning, and Visualization.
-- 📂 Check out my [Portfolio](https://saivenkatmadamanchi.netlify.app/)
-
 I'm a Data and AI enthusiast with over 5 years of experience in pre-sales analytics, business intelligence, and data science. A recent Master’s graduate from Northeastern University in Data Analytics Engineering, I specialize in building intelligent systems, automating data pipelines, and generating actionable insights using modern tools like Power BI, Python, Spark, and LangChain.
 
 - 🤖 Currently working on integrating LLMs with business workflows using LangChain and Crew AI.
@@ -87,9 +81,9 @@ I'm a Data and AI enthusiast with over 5 years of experience in pre-sales analyt
 
 ## What's My Motivation? 🚀
 
-As a passionate Data Scientist and Data Analytics Engineering Graduate, I’m driven by the power of data to solve complex problems and create impactful solutions. With 4+ years of experience in machine learning, predictive modeling, and scalable data pipelines, I thrive on turning raw data into actionable insights. I’m motivated by challenges that push boundaries. My curiosity, collaborative spirit, and commitment to growth fuel my passion for innovation. Let’s build a smarter, data-driven future together. 🚀
+I’m energized by the opportunity to bridge the gap between raw data and real-world decisions. For me, motivation comes from designing systems that not only function but transform how teams think, plan, and act. Whether it’s empowering stakeholders with predictive insights or simplifying complexity through intelligent automation, I find purpose in creating clarity from chaos. Each challenge is a chance to learn, iterate, and build something meaningful. I’m here to solve—not just code. To collaborate—not just analyze. And to deliver—not just develop.
 
-
+Let’s turn data into direction. 📊✨
 ---
 
 ## Connect with Me 🌐
