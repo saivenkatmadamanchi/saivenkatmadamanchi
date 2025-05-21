@@ -83,8 +83,16 @@ I'm a Data and AI enthusiast with over 5 years of experience in pre-sales analyt
 I’m energized by the opportunity to bridge the gap between raw data and real-world decisions. For me, motivation comes from designing systems that not only function but transform how teams think, plan, and act. Whether it’s empowering stakeholders with predictive insights or simplifying complexity through intelligent automation, I find purpose in creating clarity from chaos. Each challenge is a chance to learn, iterate, and build something meaningful. I’m here to solve—not just code. To collaborate—not just analyze. And to deliver—not just develop.
 
 Let’s turn data into direction. 📊✨
----
 
+---
+## 📜 Certifications
+
+- IBM Data Science Professional Certificate – Coursera  
+- MLOps Platforms (AWS & Azure) – Coursera  
+- Fundamentals of AI Agents with LangChain – Coursera  
+- SAS Visual Business Analytics – Coursera
+
+---
 ## Connect with Me 🌐
 
 - [LinkedIn](https://www.linkedin.com/in/sai-venkat-madamanchi/) 
